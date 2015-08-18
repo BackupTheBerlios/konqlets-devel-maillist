@@ -1,0 +1,23 @@
+From symbiont at berlios.de  Mon Mar  8 14:32:04 2004
+From: symbiont at berlios.de (Jeff Pitman)
+Date: Mon, 8 Mar 2004 21:32:04 +0800
+Subject: [konqlets-devel] Web Page Updated
+Message-ID: <200403082132.04968.symbiont@berlios.de>
+
+Currently, I'm getting the base web page up and running and working on 
+the directory structure checked in to CVS.  This structure will be 
+important as we move forward because we may end up needing the more 
+complex architecture of having a kioslave communicate with a Konqueror 
+plugin.
+
+The kioslave is already following some of the steps needed to execute a 
+bookmarklet via the URL line. However, there are hangups in the dialog 
+box, metadata, and history cleanup.  These are very important issues 
+and will need to be resolved before any release is cut.
+
+This is all for now.
+
+-- 
+-jeff
+
+

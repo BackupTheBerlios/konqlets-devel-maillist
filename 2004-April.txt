@@ -1,0 +1,31 @@
+From symbiont at berlios.de  Fri Apr  9 01:57:11 2004
+From: symbiont at berlios.de (Jeff Pitman)
+Date: Fri, 9 Apr 2004 07:57:11 +0800
+Subject: [konqlets-devel] Re: Konqlets
+In-Reply-To: <200404071453.24861.oded@geek.co.il>
+References: <200404071453.24861.oded@geek.co.il>
+Message-ID: <200404090757.12098.symbiont@berlios.de>
+
+On Wednesday 07 April 2004 19:53, Oded Arbel wrote:
+> Very good idea, I'd like to support it as much as I can.
+
+Thank you for your enthusiasm.  Right now you'll have to compile from 
+CVS, as I have not attempted to make any releases.
+
+> I think the confirmation dialog should have different buttons.
+
+I'll definitely make note of this.
+
+> (and KMail
+> also automaticly converts such emails to the proper format).
+
+Unfortunately, the keyword is "automatically".  Therein is why the email 
+is garbled.  Sorry for the trouble; so far, it's worked well and has 
+kept unsolicited mail to the utmost minimum.
+
+take care,
+
+-- 
+-jeff
+
+
